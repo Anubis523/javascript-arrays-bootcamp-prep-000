@@ -1,4 +1,4 @@
-function addElementToBeginningOfArray (element, Array) {
+function addElementToBeginningOfArray (element, array) {
   
 }
 
